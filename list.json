@@ -1,0 +1,84 @@
+{
+    "list":[
+      {
+        "sNo": "1",
+        "iNam": "Rice",
+        "qnty": "10",
+        "unit": "kg",
+        "dept": "grocery",
+        "note": "Matta"
+      },
+      {
+        "sNo": "2",
+        "iNam": "Milk",
+        "qnty": "1",
+        "unit": "L",
+        "dept": "Dairy",
+        "note": "Milma"
+        
+      },
+      {
+        "sNo": "3",
+        "iNam": "Coconut Oil",
+        "qnty": "1",
+        "unit": "Litre",
+        "dept": "Edible Oil",
+        "note": "Kera"
+      },
+      {
+        "sNo": "4",
+        "iNam": "Onion",
+        "qnty": "2",
+        "unit": "kg",
+        "dept": "grocery",
+        "note": "Fresh"
+      },
+      {
+        "sNo": "5",
+        "iNam": "Coffee Powder",
+        "qnty": "200",
+        "unit": "g",
+        "dept": "Grocery",
+        "note": "Bru Instant"
+      },
+      {
+        "sNo": "6",
+        "iNam": "Apple",
+        "qnty": "1",
+        "unit": "Kg",
+        "dept": "fruits",
+        "note": "Red"
+      },
+      {
+        "sNo": "7",
+        "iNam": "Soap",
+        "qnty": "5",
+        "unit": "Packets",
+        "dept": "grocery",
+        "note": "Dove"
+      },
+      {
+        "sNo": "8",
+        "iNam": "Chilli Powder",
+        "qnty": "500",
+        "unit": "g",
+        "dept": "grocery",
+        "note": "Eastern"
+      },
+      {
+        "sNo": "9",
+        "iNam": "Biscuit",
+        "qnty": "2",
+        "unit": "Packets",
+        "dept": "snacks",
+        "note": "Dark fantasy"
+      },
+      {
+        "sNo": "10",
+        "iNam": "Egg",
+        "qnty": "10",
+        "unit": "nos",
+        "dept": "Eggs",
+        "note": "Chicken eggs"
+      }
+    ]}

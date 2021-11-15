@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+html{
+    height: 100%;
+}
+body{
+    background-image: url("https://img.pikbest.com/58pic/35/44/12/30j58PIC9pW5qYUcg77pq_PIC2018.gif!bw700");
+    height: 100%;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 400px;
+}
+table,th,td{
+    border: 1px solid black;
+    /* border-collapse: collapse; */
+}
+table{
+    margin-left: 100px;
+    margin-top: -30px;
+}
+
+th,td{
+    
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
+th{
+    background-color: #266d6d;
+}
+td{
+    background-color: #96d4d4;
+}
+h1{
+    text-align: right;
+    margin-right: 120px;
+    padding-top: 15px;
+}
+td .check input:checked{
+
+    background-color: red;
+}
+
+    
